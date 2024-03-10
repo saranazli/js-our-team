@@ -1,0 +1,19 @@
+
+.big_conteiner{
+  width: 1500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
+.output{
+  height: 350px;
+  width: 350px;
+  margin: 10px 40px;
+}
+
+.img{
+  height: 100%;
+  width: 100%;
+}

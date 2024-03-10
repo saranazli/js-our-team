@@ -1,6 +1,6 @@
-Title
+Our Team  
 ===
-Abstract:xxx
+Esercizio array di oggetti
 ## Svolgimento
 
-1. 
+1. creo la array con gli oggetti
